@@ -1,0 +1,32 @@
+[
+    {
+        "criteria":"Age",
+        "salaried":"21 years to 60 years",
+        "selfemployed":"22 years to 55 years"
+        
+    },
+    {
+        "criteria":"Net Monthly Income",
+        "salaried":"Rs.15,000",
+        "selfemployed":"Rs.25,000"
+        
+    },
+    {
+        "criteria":"CIBIL Score",
+        "salaried":"Above 750",
+        "selfemployed":"Above 750"
+        
+    },
+    {
+        "criteria":"Minimum Loan Amount",
+        "salaried":"Rs.50,000",
+        "selfemployed":"Rs.50,000"
+        
+    },
+    {
+        "criteria":"Maximum Loan Amount",
+        "salaried":"Rs.25 lakh",
+        "selfemployed":"Rs.50 lakh"
+        
+    }
+]

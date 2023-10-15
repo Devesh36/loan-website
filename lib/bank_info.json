@@ -1,0 +1,182 @@
+[
+  {
+    "tag": "h3",
+    "id": "punjab_national_2",
+    "class": "ui header",
+    "children": ["Punjab National Bank Education Loan"]
+  },
+  {
+    "tag": "ul",
+    "role": "list",
+    "class": "ui list",
+    "children": [
+      {
+        "tag": "Maximum Loan Amount: Need Based"
+      },
+      {
+        "tag": "Maximum Loan Tenure: 15 Years Collateral: Nil Up to Rs.7.5 lakh"
+      },
+      {
+        "tag": "Margin: Nil Up to Rs.4 lakh"
+      },
+      {
+        "tag": "Offers loans to Indian residents and OCIs/PIOs/students born abroad to\n      Indian parents and want to pursue studies in India."
+      },
+      {
+        "tag": "No security is required up to Rs.7.50 lakh"
+      },
+      {
+        "tag": "Moratorium period is course period and 1 year&nbsp;&nbsp;"
+      }
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": "_sbi_education__3",
+    "class": "ui header",
+    "children": ["SBI Education Loan"]
+  },
+  {
+    "tag": "ul",
+    "role": "list",
+    "class": "ui list",
+    "children": [
+      {
+        "tag": "No collateral or third-party guarantee required up to Rs. 7.5 lakh"
+      },
+      {
+        "tag": "Repayment to be done one year after course completion"
+      },
+      {
+        "tag": "Repayment up to 15 years post the course completion + 12 months"
+      },
+      {
+        "tag": "Zero processing fees for loans up to Rs.20 lakh"
+      },
+      {
+        "tag": "Second loan can be availed for completing higher studies"
+      }
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": "axis_bank_educa_4",
+    "class": "ui header",
+    "children": ["Axis Bank Education Loan"]
+  },
+  {
+    "tag": "ul",
+    "role": "list",
+    "class": "ui list",
+    "children": [
+      {
+        "tag": "Minimum loan amount is Rs.50,000"
+      },
+      {
+        "tag": "Maximum Loan Tenure: 20 years"
+      },
+      {
+        "tag": "Margin: Nil Up to Rs.4 lakh"
+      },
+      {
+        "tag": "Can secure loan before admission based on profile"
+      },
+      {
+        "tag": "Loan disbursal within 15 business days from the date the bank receives\n      your complete application"
+      },
+      {
+        "tag": "Unsecured loans up to Rs.20 lakh for working professionals."
+      }
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": "bank_of_baroda__5",
+    "class": "ui header",
+    "children": ["Bank of Baroda Education Loan"]
+  },
+  {
+    "tag": "ul",
+    "role": "list",
+    "class": "ui list",
+    "children": [
+      {
+        "tag": "Maximum Loan Amount: Rs.150 lakh"
+      },
+      {
+        "tag": "No security up to Rs.7.5 lakh"
+      },
+      {
+        "tag": "No margin on loans up to Rs.4 lakh"
+      },
+      {
+        "tag": "No processing fees"
+      },
+      {
+        "tag": "No documentation charges"
+      }
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": "hdfc_bank_educa_6",
+    "class": "ui header",
+    "children": ["HDFC Bank Education Loan"]
+  },
+  {
+    "tag": "ul",
+    "role": "list",
+    "class": "ui list",
+    "children": [
+      {
+        "tag": "Maximum loan amount is&nbsp;Rs.1.5 crore"
+      },
+      {
+        "tag": "Loan repayment tenure is up to 15 years"
+      },
+      {
+        "tag": "Easy documentation process"
+      },
+      {
+        "tag": "No collateral required up to Rs.7.5 lakh"
+      },
+      {
+        "tag": "Tax benefit can be availed on education loan"
+      },
+      {
+        "tag": "Loan amount will be directly disbursed to the institution based on its fee\n      structure"
+      }
+    ]
+  },
+  {
+    "tag": "h3",
+    "id": "tata_capital_ed_7",
+    "class": "ui header",
+    "children": ["Tata Capital Education Loan"]
+  },
+  {
+    "tag": "ul",
+    "role": "list",
+    "class": "ui list",
+    "children": [
+      {
+        "tag": "Maximum loan amount of Rs.30 lakh"
+      },
+      {
+        "tag": "Collateral: Nil Up to Rs.4 lakh"
+      },
+      {
+        "tag": "Rate of interest starting at 10.99%"
+      },
+      {
+        "tag": "The processing fee is 2.75% of the loan amount"
+      },
+      {
+        "tag": "Choose from 3 EMI plans as per your convenience"
+      },
+      {
+        "tag": "Minimal documentation and quick approval of loans"
+      }
+    ]
+  }
+]

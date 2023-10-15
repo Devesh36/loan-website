@@ -1,0 +1,18 @@
+[
+    {
+        "Requirment":"Proof of Identity",
+        "Salaried Individuals":"Passport, Voter’s ID, Driving License or PAN Card",
+        "Self Employed":"Passport, Voter’s ID, Driving License or PAN Card"
+    },
+    {
+        "Requirment":"Proof of Residence",
+        "Salaried Individuals":"Passport or utility bills",
+        "Self Employed":"Passport or utility bills"
+    },
+ {
+    "Requirment":"Proof of Income",
+    "Salaried Individuals":"Bank statement of salary account for the past two years",
+    "Self Employed":"Audited financial statement of the past two years"
+}
+
+]
