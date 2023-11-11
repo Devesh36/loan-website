@@ -82,7 +82,7 @@ export default function Home() {
         </div>
         <Image
           unoptimized
-          src={"/family.png"}
+          src="family.png"
           width={400}
           height={400}
           alt={"family"}
