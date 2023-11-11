@@ -81,6 +81,7 @@ export default function Home() {
           </Link>
         </div>
         <Image
+          unoptimized
           src={"/family.png"}
           width={400}
           height={400}
