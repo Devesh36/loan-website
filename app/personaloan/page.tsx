@@ -69,7 +69,7 @@ const page = () => {
               <TableBody>
                 {personaloan.map((loan) => {
                   return (
-                    <TableRow>
+                    <TableRow key={loan.bank}>
                       <TableCell className="font-medium">
                         <Link href={`${loan.link}`}>{loan.bank}</Link>
                       </TableCell>
@@ -147,7 +147,7 @@ const page = () => {
               <TableBody>
                 {personalcre.map((loan) => {
                   return (
-                    <TableRow>
+                    <TableRow key={loan.criteria}>
                       <TableCell className="font-medium">
                         <Link href={`${loan.criteria}`}>{loan.criteria}</Link>
                       </TableCell>
@@ -189,7 +189,7 @@ const page = () => {
               <TableBody>
                 {personalcre2.map((loan) => {
                   return (
-                    <TableRow>
+                    <TableRow key={loan.Requirment}>
                       <TableCell className="font-medium">
                         {loan.Requirment}
                       </TableCell>

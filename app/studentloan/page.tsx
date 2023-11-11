@@ -76,7 +76,7 @@ const articles = () => {
               <TableBody>
                 {student_loan.map((loan) => {
                   return (
-                    <TableRow>
+                    <TableRow key={loan.name}>
                       <TableCell className="font-medium">
                         <Link href={`${loan.link}`}>{loan.name}</Link>
                       </TableCell>
@@ -103,7 +103,7 @@ const articles = () => {
             </div>
           </summary>
           <div className="font-serif">
-            <p>Here's what the loan amount will cover:</p>
+            <p>Here&apos;s what the loan amount will cover:</p>
            <ol style={{ listStyle: 'initial' }}>
             <li>Tuition fees </li>
            <li> Hostel fees </li>
@@ -137,7 +137,7 @@ const articles = () => {
            <li>Get Education loans for studies in India and abroad.</li>
            <li>Some lenders offer loan disbursal before applying for a Visa.</li>
            <li>Door-step service to collect required documents. </li>
-           <li> Children of the bank's employees enjoy preferential rates at several banks. </li>
+           <li> Children of the bank&apos;s employees enjoy preferential rates at several banks. </li>
            <li>Certain banks offer concessional interest rates to female students. </li>
            <li>Enjoy a moratorium period of up to 1 year after course completion. </li>
            <li>During this period, you do not have to make payments on the loan. </li>
@@ -164,9 +164,9 @@ const articles = () => {
             purpose of higher education. The deduction is available to all
             fields of study, both domestically and internationally. It includes
             both vocational and academic courses. </p> <br></br>
-            <p>It's important to remember that the tax deduction only applies to the interest portion of the
+            <p>It&apos;s important to remember that the tax deduction only applies to the interest portion of the
             EMI, not the principle. There is, however, no limit to how many
-            times you can claim this benefit. You'll need a certificate from
+            times you can claim this benefit. You&apos;ll need a certificate from
             your bank or financial institution that separates the principal and
             interest components of your EMIs to qualify for this benefit.</p><br></br>
              <p>This  benefit is accessible for 8 years from the day you started repaying
@@ -249,7 +249,7 @@ const articles = () => {
           <div  className="font-serif">
             To apply for an education loan through the official bank website,
             follow these steps: <br></br>
-            Step 1: Access the bank's official website. <br></br>Step
+            Step 1: Access the bank&apos;s official website. <br></br>Step
             2: Locate the education loan product page.<br></br> Step 3: Complete the
             application-cum-consent form by entering your personal and contact
             information.<br></br> Step 4: Provide your academic and financial details

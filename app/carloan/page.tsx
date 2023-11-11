@@ -155,7 +155,7 @@ However, it is advised that you compare different loan products and then choose 
           <div className='font-serif'>
           When it comes to car loans in India, in general, the following features and benefits are offered. Note that the following is a generalised look at the advantages offered by car loans. Individually, car loan lenders may have highly customized and specialized offerings for their customer base.<br></br>
 
-1)It helps you purchase a car even if you don't have all the money for it right now.<br></br>
+1)It helps you purchase a car even if you don&apos;t have all the money for it right now.<br></br>
 2)Most car loans will finance the on-road price of the car.<br></br>
 3)Some car loans will even finance 100% of the on-road price. This means no down payments.<br></br>
 4)With some banks offering financing in the crores, you are not limited in your choice of cars<br></br>
@@ -183,7 +183,7 @@ However, it is advised that you compare different loan products and then choose 
             </div>
           </summary>
           <div className='font-serif'>
-          If you have taken a car loan to purchase an Electric Vehicle (EV), you can now enjoy a tax rebate of Rs.1.5 lakh on the interest paid. This was announced in the latest Union Budget (2019-20) by Finance Minister Nirmala Sitharaman and is a part of the government's efforts to stimulate the adoption of environment-friendly mobility solutions.<br></br>
+          If you have taken a car loan to purchase an Electric Vehicle (EV), you can now enjoy a tax rebate of Rs.1.5 lakh on the interest paid. This was announced in the latest Union Budget (2019-20) by Finance Minister Nirmala Sitharaman and is a part of the government&apos;s efforts to stimulate the adoption of environment-friendly mobility solutions.<br></br>
 
 If you have purchased an electric vehicle, you will be able to avail a benefit of about Rs.2.5 lakh during the entire term of the loan. The government has also slashed the tax rates on electric vehicles to 5% from the earlier 12%.<br></br>
 

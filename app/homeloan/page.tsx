@@ -43,11 +43,11 @@ function homeloan() {
 
 Here are some key points about home loans:<br></br>
 
-1)Loan Amount: The amount of money you can borrow for a home loan depends on various factors, including your creditworthiness, income, and the appraised value of the property. Typically, homebuyers need to make a down payment, which is a portion of the home's purchase price paid upfront, with the rest being covered by the loan.<br></br>
+1)Loan Amount: The amount of money you can borrow for a home loan depends on various factors, including your creditworthiness, income, and the appraised value of the property. Typically, homebuyers need to make a down payment, which is a portion of the home&apos;s purchase price paid upfront, with the rest being covered by the loan.<br></br>
 
 2)Interest Rate: Home loans come with an interest rate that determines the cost of borrowing. The interest rate can be fixed (remains the same throughout the loan term) or adjustable (varies based on market conditions). The interest rate can significantly affect the total cost of the loan.<br></br>
 
-3)Loan Term: Home loans can have various loan terms, with 15-year and 30-year terms being common. The loan term dictates the duration over which you'll make monthly payments. A shorter term generally means higher monthly payments but lower total interest costs.<br></br>
+3)Loan Term: Home loans can have various loan terms, with 15-year and 30-year terms being common. The loan term dictates the duration over which you&apos;ll make monthly payments. A shorter term generally means higher monthly payments but lower total interest costs.<br></br>
 
 4)Collateral: The home you are purchasing typically serves as collateral for the loan. This means that if you fail to make your mortgage payments as agreed, the lender has the right to take ownership of the property through a process called foreclosure.<br></br>
 
@@ -59,7 +59,7 @@ Here are some key points about home loans:<br></br>
 
 8)Private Mortgage Insurance (PMI): If you make a small down payment, you may be required to pay PMI to protect the lender in case you default on the loan. Once you have built up sufficient equity in your home, PMI may no longer be necessary.<br></br>
 
-Home loans enable individuals and families to become homeowners without having to pay the full purchase price upfront. It's important to carefully consider the terms and conditions of the loan, including interest rates, loan type, and repayment schedule, to make an informed decision and ensure you can manage the financial responsibility of homeownership.<br></br>
+Home loans enable individuals and families to become homeowners without having to pay the full purchase price upfront. It&apos;s important to carefully consider the terms and conditions of the loan, including interest rates, loan type, and repayment schedule, to make an informed decision and ensure you can manage the financial responsibility of homeownership.<br></br>
   </div>
         </details>
       </div>
