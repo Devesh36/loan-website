@@ -9,6 +9,9 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
+import picture2 from '@/public/picture2.png';
+import Image from "next/image";
+
 
 import student_loan from "@/lib/student_loan.json";
 import Link from "next/link";
@@ -18,13 +21,14 @@ const articles = () => {
     <div>
       <div className="max-w-screen bg-court bg-fixed bg-repeat-round h-80 rounded-b-2xl">
         <Nav />
-        <h1 className="font-bold flex justify-center text-center align-toppt-40 text-6xl">
+       
+        <h1 className="font-bold flex justify-center text-center align-toppt-60 text-6xl">
           <span className="text-gray-950  text-6xl bg-white rounded px-2 bg-opacity-30">
             Student Loan
           </span>
         </h1>
       </div>
-
+      
       <div className="container mx-auto p-4">
         <details className="bg-white shadow rounded group mb-4">
           <summary className="list-none flex flex-wrap items-center cursor-pointer focus-visible:outline-none focus:ring focus:ring-gray-600 rounded group-open:rounded-b-none group-open:z-[1] relative">

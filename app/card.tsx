@@ -59,7 +59,9 @@ export function CardCARLOAN({
         </CardContent>
         <CardFooter>
           <div>
+            <Link href="/carloan">
             <Button className="w-full">READ MORE!</Button>
+            </Link>
           </div>
         </CardFooter>
       </Card>

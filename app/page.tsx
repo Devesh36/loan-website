@@ -20,6 +20,7 @@ import LoanCalculator from "@/components/emi/emiCal";
 import Link from "next/link";
 export default function Home() {
   return (
+  
     <div>
       <Nav />
       <div className="flex justify-between mr-28">
@@ -104,7 +105,6 @@ export default function Home() {
             <CardH />
           </div>
         </div>
-     <div className="mt-60  text-3xl font-extrabold text-[#10375C] text-center mb-0 " ><p>This is An EMI CALCULATOR</p></div>
       <div className="mb-0">
         <LoanCalculator/>
       </div>

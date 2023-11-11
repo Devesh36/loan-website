@@ -71,7 +71,7 @@ const page = () => {
                   return (
                     <TableRow>
                       <TableCell className="font-medium">
-                        <Link href={`${loan.bank}`}>{loan.bank}</Link>
+                        <Link href={`${loan.link}`}>{loan.bank}</Link>
                       </TableCell>
 
                       <TableCell>{loan.best_for}</TableCell>
